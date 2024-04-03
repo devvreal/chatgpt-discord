@@ -1,7 +1,5 @@
 # Info
 ---
-> # 🔓Password: 2024🔓
+You need to create key at open ai dashboard
 > # 🟢Status: WORK🟢
----
-# Download
-### [Download the latest version](https://github.com/devvreal/chatgpt-discord/releases/download/v1.22/GHUBSProject.rar)
+
